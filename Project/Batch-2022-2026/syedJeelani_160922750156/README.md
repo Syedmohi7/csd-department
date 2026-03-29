@@ -159,10 +159,6 @@ npm run dev
 Syed Mohiuddin Jeelani Jaffri
 Roll Number: 160922750156
 
----
-
-⭐ Conclusion
-
 Medexa aims to revolutionize digital healthcare by combining AI with user-friendly design, enabling users to take control of their health anytime, anywhere.
 
 ---
